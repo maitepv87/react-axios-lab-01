@@ -1,12 +1,31 @@
-# React + Vite
+# React-Image-Search  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description  
+React-Image-Search is a testing lab built with **React**, **Axios**, and the **Unsplash API**, designed to explore efficient image search and API integration patterns. This project allows hands-on experimentation with:
 
-Currently, two official plugins are available:
+- Fetching images dynamically from Unsplash API  
+- Managing API requests using **Axios**  
+- Implementing **a custom search bar** for user queries  
+- Displaying responsive images with a clean UI  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It serves as a structured sandbox for understanding **data fetching and UI rendering** in React applications.  
 
-## Expanding the ESLint configuration
+## Technologies Used  
+- **React** – Component-based UI development  
+- **Vite** – Fast build tool and development environment  
+- **Unsplash API** – Image search and retrieval  
+- **Axios** – Promise-based HTTP client for API requests  
+- **PropTypes** – Runtime validation for React components  
+- **CSS** – Ensuring clean and accessible UI  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Getting Started  
+
+### Installation & Setup  
+To run the project locally, follow these steps:  
+
+#### Clone the repository  
+```bash
+git clone https://github.com/maitepv87/react-image-search.git
+cd react-image-search
+npm install
+npm run dev
