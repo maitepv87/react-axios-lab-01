@@ -1,9 +1,9 @@
-# React-Image-Search  
+# React-Axios-Lab-01  
 
 ## Description  
-React-Image-Search is a testing lab built with **React**, **Axios**, and the **Unsplash API**, designed to explore efficient image search and API integration patterns. This project allows hands-on experimentation with:
+React-Axios-Lab-01 is a testing lab built with **React**, **Axios**, and the **Unsplash API**, designed to explore efficient API integration and state management. This project allows hands-on experimentation with:
 
-- Fetching images dynamically from Unsplash API  
+- Fetching images dynamically from **Unsplash API**  
 - Managing API requests using **Axios**  
 - Implementing **a custom search bar** for user queries  
 - Displaying responsive images with a clean UI  
@@ -25,7 +25,7 @@ To run the project locally, follow these steps:
 
 #### Clone the repository  
 ```bash
-git clone https://github.com/maitepv87/react-image-search.git
-cd react-image-search
+git clone https://github.com/maitepv87/react-axios-lab-01.git
+cd react-axios-lab-01
 npm install
 npm run dev
